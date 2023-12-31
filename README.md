@@ -38,7 +38,7 @@ Langchain
 Pandas
 
 ### Contributing
-This project was created by [your name]. Feel free to submit any issues or pull requests.
+This project was created by Shivanand. Feel free to submit any issues or pull requests.
 
 ### License
 This project is licensed under the MIT License.
