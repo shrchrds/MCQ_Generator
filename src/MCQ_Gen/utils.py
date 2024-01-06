@@ -23,11 +23,7 @@ def read_file(file):
 def get_table_data(quize_str):
     try:
         #convert the quiz from str to dict
-        print(f"Quiz in String format {quize_str}")
-        print(type(quize_str))
         quiz_dict = json.loads(quize_str)
-        print(f"Quiz in Dictionary format {quiz_dict}")
-        print(type(quiz_dict))
         quiz_table_data = []
 
         # iterate over the quize dictionary and extract the required information
