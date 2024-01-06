@@ -48,7 +48,7 @@ Check from an expert English Writer of the above quiz:
 
 quiz_evaluation_prompt = PromptTemplate(
                             input_variables=["subject, quiz"],
-                            template=TEMPLATE
+                            template=TEMPLATE2
                         )
 
 review_chain = LLMChain(

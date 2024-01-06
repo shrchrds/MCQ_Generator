@@ -1,6 +1,6 @@
 ,MCQ,Choces,Correct
-0,What is the purpose of Retrieval-Augmented Generation (RAG)?,a : To train LLMs on enormous bodies of data | b : To add user data to the data LLMs already have access to | c : To create vector embeddings for indexing data | d : To store and retrieve data efficiently,b
-1,What is the indexing stage in RAG?,a : Loading data from different sources | b : Creating a data structure for querying the data | c : Storing the indexed data | d : Evaluating the effectiveness of the pipeline,b
-2,What are retrievers used for in the querying stage of RAG?,a : To generate vector embeddings for data | b : To determine the best retrieval strategy | c : To apply transformations to retrieved nodes | d : To generate responses from an LLM,b
-3,What is the purpose of a chat engine in RAG?,a : To ask questions over the data | b : To have a conversation with the data | c : To interact with the world via a set of tools | d : To dynamically decide on the best course of action,b
-4,What is the main advantage of using an agent in RAG?,a : It can train LLMs on enormous bodies of data | b : It can store and retrieve data efficiently | c : It can have a conversation with the data | d : It can dynamically decide on the best course of action,d
+0,What is the purpose of Retrieval-Augmented Generation (RAG)?,a : To train LLMs on enormous bodies of data | b : To add user data to the data LLMs already have access to | c : To create vector embeddings for data indexing | d : To evaluate the effectiveness of LLM responses,b
+1,Which stage of RAG involves creating a data structure for querying the data?,a : Loading | b : Indexing | c : Storing | d : Querying,b
+2,What is the purpose of embeddings in RAG?,a : To generate numerical representations of data | b : To store metadata about the data | c : To efficiently retrieve relevant context from an index | d : To apply transformations to retrieved nodes,a
+3,What is the role of a router in RAG?,a : To generate a response from an LLM | b : To select the best retriever based on metadata and query | c : To filter and re-rank retrieved nodes | d : To efficiently retrieve relevant context from an index,b
+4,Which category of data-backed LLM applications involves having a conversation with the data?,a : Query Engines | b : Chat Engines | c : Agents | d : Retrievers,b
